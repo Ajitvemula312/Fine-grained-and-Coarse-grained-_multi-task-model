@@ -6,18 +6,6 @@ This README file provides an overview of the code in the "Multi Task Learning.ip
 
 The Jupyter Notebook contains code for multi-task learning using an enhanced ResNet50 architecture. It showcases multiple steps to improve model performance, making it suitable for real-world multi-task learning scenarios.
 
-## Getting Started
-
-Before running the code, make sure to install the required libraries. The code starts by importing necessary libraries:
-
-```python
-import pandas as pd
-import numpy as np
-import cv2
-import tensorflow as tf
-import matplotlib.pyplot as plt
-```
-
 ## Loading the Data
 
 The code uses the CIFAR-100 dataset for multi-task learning. Images are loaded and preprocessed for both fine-grained and coarse-grained classification tasks.
