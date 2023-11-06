@@ -38,6 +38,6 @@ Here are the performance results for the different models:
 | ResNet50 Model (before adjustments)          | 36.35%                | 49.72%                  |
 | Enhanced ResNet50 Model (after adjustments)  | 43.43%                | 60.93%                  |
 
-![Accuracy and Loss Plots](download (1).png)
+![Accuracy and Loss Plots](/download%20(1).png)
 
 The table summarizes the performance of the models, and the accompanying image shows accuracy and loss plots for the enhanced ResNet50 model. These results demonstrate the effectiveness of multi-task learning with the enhanced architecture. Further adjustments and fine-tuning can be explored to achieve even better performance.
